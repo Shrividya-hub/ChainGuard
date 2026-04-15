@@ -1,0 +1,7 @@
+{
+  "components": [
+    { "name": "lodash", "version": "4.17.15" },
+    { "name": "express", "version": "4.18.2" },
+    { "name": "axios", "version": "0.21.0" }
+  ]
+}

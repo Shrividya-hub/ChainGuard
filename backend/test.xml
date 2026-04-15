@@ -1,0 +1,12 @@
+<bom>
+  <components>
+    <component>
+      <name>lodash</name>
+      <version>4.17.15</version>
+    </component>
+    <component>
+      <name>express</name>
+      <version>4.18.2</version>
+    </component>
+  </components>
+</bom>
